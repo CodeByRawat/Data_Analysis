@@ -3,9 +3,7 @@
 This project involves classifying mushrooms as either edible or poisonous using a logistic regression model. The dataset contains features related to the mushroom’s physical properties, which help determine the class.
 Approach
 
-    The dataset was cleaned, and categorical features were encoded using label encoding.
-    Logistic regression was applied to classify mushrooms as edible or poisonous.
-    The model was evaluated using accuracy, and cross-validation was performed to ensure robustness.
+The dataset was cleaned, and categorical features were encoded using label encoding.Logistic regression was applied to classify mushrooms as edible or poisonous.The model was evaluated using accuracy, and cross-validation was performed to ensure robustness.
 
 ## Dataset
 
