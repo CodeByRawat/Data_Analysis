@@ -1,16 +1,4 @@
-<p style="
-    background: linear-gradient(to right, #00c6ff, #0072ff); 
-    font-family: 'Arial', sans-serif; 
-    color: #ffffff; 
-    font-size: 200%; 
-    text-align: center; 
-    padding: 20px; 
-    border-radius: 25px; 
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); 
-    letter-spacing: 1.5px;
-    text-transform: uppercase;">
-    🎮 Google Play Store Data: EDA 🔍
-</p
+# 🎮 Google Play Store Data: EDA 🔍 #
 
 
 <div id="about-dataset" style="background: #ffffff; padding: 25px 60px; border-radius: 12px; margin: 20px auto; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); max-width: 900px;">
