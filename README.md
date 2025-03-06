@@ -1,3 +1,8 @@
+
+![sadsd](https://github.com/user-attachments/assets/7690e5fb-c182-4312-ae2a-bd2ad052151a)
+![australian housnig price](https://github.com/user-attachments/assets/dc22884e-8bd1-48e8-9584-48cbd16804b7)
+
+
 # 📊 Data Analysis Projects
 
 Welcome to my **Data Analysis** portfolio! This page showcases my projects involving data analysis, machine learning, and data visualization using **Python, SQL, and Tableau**.
